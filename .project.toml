@@ -1,0 +1,13 @@
+[project]
+name = "fuckcars.de"
+description = "Content-Sammlung/Blog zum Thema autofreie Mobilität."
+status = "archiviert"
+priority = "niedrig"
+location = "~/Developer/fuckcars.de"
+
+[dates]
+created = "2022-06-26"
+last_activity = "2026-03-01"
+
+[notes]
+next_steps = "Neue Inhalte hinzufügen oder Projekt archivieren"
